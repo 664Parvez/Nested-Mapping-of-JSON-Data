@@ -1,0 +1,19 @@
+[
+    {
+        "name" : "Card Section One",
+        "card": [
+            {
+                "title" : "Card Title One",
+                "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut officiis blanditiis, atque nesciunt totam optio. Neque praesentium ab perspiciatis voluptate voluptas dignissimos repudiandae laboriosam quasi est! Quibusdam error perspiciatis esse."
+            },
+            {
+                "title" : "Card Title Two",
+                "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut officiis blanditiis, atque nesciunt totam optio. Neque praesentium ab perspiciatis voluptate voluptas dignissimos repudiandae laboriosam quasi est! Quibusdam error perspiciatis esse." 
+            },
+            {
+                "title" : "Card Title Three",
+                "paragraph" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut officiis blanditiis, atque nesciunt totam optio. Neque praesentium ab perspiciatis voluptate voluptas dignissimos repudiandae laboriosam quasi est! Quibusdam error perspiciatis esse." 
+            }
+        ]
+    }
+]
